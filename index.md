@@ -11,12 +11,13 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# sample text
-## lorem ipsum dolor sit amet
+# Ryan's First CS193 Homework
+## sample text
 ### the missile knows where it is at all times
 
-- it knows this because it knows
-- where it isn't
+- not a high commitment class
+- it teaches us stuff we should know
+- chill teachers
 
 1. end 
 2. credits
